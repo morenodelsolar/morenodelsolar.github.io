@@ -28,7 +28,7 @@ function setup() {
   //pintar el fondo verde
   //background(color);
   background(0, 255, 0);
-  frameRate(30);
+  frameRate(4);
 }
 
 //draw() se ejecuta despues de setup()
